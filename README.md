@@ -1,3 +1,5 @@
+live demo:https://dic7-ml-nmresxlbworci3vysbuxtd.streamlit.app/
+
 # CRISP-DM Linear Regression Streamlit App
 
 This repository contains a single-file Streamlit application (`app.py`) that demonstrates the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) workflow using a synthetic linear regression dataset.
